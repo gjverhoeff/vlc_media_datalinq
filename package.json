@@ -1,0 +1,23 @@
+{
+  "name": "vlc-media-datalinq",
+  "version": "1.0.0",
+  "description": "Middleware to receive data from VLC for Datalinq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vlc",
+    "broadcast",
+    "ross",
+    "datalinq"
+  ],
+  "author": "Geert Verhoeff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.4",
+    "request": "^2.88.2"
+  }
+}
