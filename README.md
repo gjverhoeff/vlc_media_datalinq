@@ -1,4 +1,4 @@
-# vlc_media_datalinq
+# VLC Media Ross DataLinq
 Simple script to make VLC data available for Ross DataLinq. 
 
 Tutorial Video:
